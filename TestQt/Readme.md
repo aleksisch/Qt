@@ -1,1 +1,1 @@
-This is a simple calculator and model of interaction between bodies with gravity
+Модель гравитационного взаимодействия тел, используя Qt и c++
